@@ -93,3 +93,4 @@ plt.show()
 ```
 
 pic/Figure_1.png
+pic/Figure_1.png
