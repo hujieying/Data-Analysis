@@ -23,11 +23,11 @@
 |12|漏斗图|转化率可视化，它适用在固定流程的转化分析，你也可以认为它是桑基图的简化版|||||![](http://mmbiz.qpic.cn/mmbiz_png/9WoCz1BTJSiagccNuibiaIGcnfEsHyg9CYZg8IyF3lwcX6Bje3VibMdDPfARU1KG3DgIOYYgAp72U4UJP2CP9CicyYQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)|
 
 学习参考资料：
-[数据可视化：你想知道的经典图表全在这](https://mp.weixin.qq.com/s?__biz=MjM5NjEyMDI2MQ==&mid=2455946767&idx=1&sn=631135d8fe90b3b9c9e7983bf64fc77c&chksm=b17875a5860ffcb3e0b99adcfcfbf95df76d02e40c2e415d92478712b3590ae1c729146fdcfc&scene=21#wechat_redirect)
-[数据可视化：常用图表使用总结](http://www.woshipm.com/data-analysis/779858.html)
+[数据可视化：你想知道的经典图表全在这](https://mp.weixin.qq.com/s?__biz=MjM5NjEyMDI2MQ==&mid=2455946767&idx=1&sn=631135d8fe90b3b9c9e7983bf64fc77c&chksm=b17875a5860ffcb3e0b99adcfcfbf95df76d02e40c2e415d92478712b3590ae1c729146fdcfc&scene=21#wechat_redirect)  
+[数据可视化：常用图表使用总结](http://www.woshipm.com/data-analysis/779858.html)  
 [数据可视化：常用图表类型](http://www.afenxi.com/post/16416)
 
 
-## CHANGELOG
-20180102 增补
+## CHANGELOG  
+20180102 增补  
 20171231 创建
