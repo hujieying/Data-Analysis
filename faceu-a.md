@@ -5,7 +5,6 @@
 ## 1.产品理解
 ### 1.1 产品形态与定位
 faceu激萌是一款面向年轻用户的自拍p图工具、视频社交工具。通过艾瑞数据显示，发现faceu的核心用户是35岁以下的活跃年轻用户，其中以喜欢自拍的女性用户为主要群体。有绝大部分用户都集中在二三线城市。
-<img src="https://raw.githubusercontent.com/hujieying/Data-Analysis/master/pic/faceu2.png" width = "450" alt="性别" align=center/>
 
 ![性别占比](https://raw.githubusercontent.com/hujieying/Data-Analysis/master/pic/faceu2.png)
 ![年龄占比](https://raw.githubusercontent.com/hujieying/Data-Analysis/master/pic/faceu3.png)
