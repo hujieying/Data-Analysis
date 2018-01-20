@@ -29,10 +29,7 @@ salary：薪水
 workYear：工作年限要求
 
 在数据库中长这个样子：
-![数据样子]()
-![]()
-
-
+![数据样子](https://raw.githubusercontent.com/hujieying/Data-Analysis/master/pic/a0.png)
 
 
 ## 从入门到熟练
