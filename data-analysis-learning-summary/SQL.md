@@ -4,11 +4,10 @@
 系统：macOS 10.12
 数据库：mysql5.7.2
 GUI:Sequel Pro1.1
-数据来源：秦路
+数据来源：秦路的公众号，[数据在这里](https://github.com/hujieying/Data-Analysis/blob/master/data-analysis-learning-summary/DataAnalyst.csv)
 
 ## 数据
-本次练习数据是直接使用秦路文章中使用的现成的数据作为练习。
-数据是用爬虫爬取招聘网站上约5000条的数据分析师职位数据。为了练习，数据中北京数据多复制了一份。
+本次练习数据是直接使用秦路文章中使用的现成的数据作为练习。数据是用爬虫爬取招聘网站上约5000条的数据分析师职位数据。为了练习，数据中北京数据多复制了一份。
 具体数据包括字段：
 > city：城市
 companyFullName：公司全名
